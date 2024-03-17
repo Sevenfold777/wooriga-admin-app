@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "wooriga-admin-app",
+    "slug": "wooriga-admin-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "사진첩에 접근을 허용합니다"
+        }
+      ]
+    ]
+  },
+  "name": "wooriga-admin-app"
+}
